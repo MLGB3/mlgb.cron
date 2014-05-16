@@ -1,8 +1,8 @@
 # Declare files that will always have CRLF line endings on checkout.
-*.sql text eol=crlf
-*.txt text eol=crlf
-*.py text eol=crlf
-*.doc text eol=crlf
-*.intro text eol=crlf
-*.master text eol=crlf
-*.sh text eol=crlf
+*.sql text eol=lf
+*.txt text eol=lf
+*.py text eol=lf
+*.doc text eol=lf
+*.intro text eol=lf
+*.master text eol=lf
+*.sh text eol=lf
