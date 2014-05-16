@@ -1,0 +1,901 @@
+AUGUSTINIAN CANONS
+
+Anglesey	 		A1	List of books, 1314
+Barnwell			A2 	Leland, c. 1536-40
+Bourne			A3 	Leland, c. 1536-40
+Bridlington 		A4 	List of books, early 13th cent.
+Bridlington			A5 	Leland, c. 1536-40
+Bristol 			A6 	Leland, c. 1536-40
+Canterbury-St Gregory 	A7 	Leland, c. 1536-40
+Christchurch 		A8 	Leland, c. 1536-40
+Cirencester 		A9 	Leland, c. 1536-40
+Elsham 			A10	Lincolnshire list, 1528
+Guisborough			A11 	Leland, c. 1536-40
+Hartland 			A12 	Leland, c. 1536-40
+Keynsham 			A13 	Leland, c. 1536-40
+Kirkham 			A14 	Leland, c. 1536-40
+Kyme 				A15 	Lincolnshire list, 1528
+Lanthony 			A16 	Catalogue, late 14th cent.
+Lanthony			A17 	Leche bequest,
+Lanthony			A18 	Leland, c. 1536-40
+Launde 			A19 	Leland, c. 1536-40
+Leicester 			A20 	Catalogue, 15th cent.
+Leicester			A21 	Leland, c. 1536-40
+Markby 			A22 	Lincolnshire list, 1528
+Newburgh 			A23 	Leland, c. 1536-40
+Newnham 			A24 	Leland, c. 1536-40
+Nocton Park 		A25 	Lincolnshire list, 1528
+Osney 			A26 	Leland, c. 1536-40
+Plympton  			A27 	Books bequeathed by Robert, archdeacon of Totnes, late 12th cent.
+Plympton			A28 	Leland, c. 1536-40
+Selborne 			A29 	List of books, 1490
+Southampton 		A30 	Leland, c. 1536-40
+Southwick 			A31 	Leland, c. 1536-40
+Taunton 			A32 	Leland, c. 1536-40
+Thornholm 			A33 	Lincolnshire list, 1528
+Thornton 			A34 	Lincolnshire list, 1528
+Thornton 			A35 	Leland, c. 1536-40
+Thurgarten 			A36 	Inventory, 15th cent.
+Walsingham 			A37 	Leland, c. 1536-40
+Waltham			A38 	Catalogue, early 13th cent.
+Waltham			A39 	Leland, c. 1536-40
+Wellow			A40 	Lincolnshire list, 1528
+Worksop 			A41 	List of books, 1187
+
+
+BENEDICTINES: THE SHORTER CATALOGUES
+
+Abbotsbury 			B1 	Leland, c. 1536-40
+Abingdon 			B2 	Books commissioned by Faricius (1100-1117)
+Abingdon 			B3 	Leland, c. 1536-40
+Abingdon 			B4 	Anonymus Reginensis, early 16th cent.
+Bardney 			B5 	Lincolnshire list, 1528
+Bardney			B6 	Leland, c. 1536-40
+Barking 			B7 	Books in the possession of former steward, 1553
+Bath 				B8 	Leland, c. 1536-40
+Battle 			B9 	Leland, c. 1536-40
+Bermondsey 			B10 	Catalogue, 1310 x 1328
+Burton 			B11 	Catalogue, c. 1175
+Bury 				B12 	Books held by monks, late 11th cent.
+Bury				B13 	Catalogue, late 12th cent., and additions
+Bury				B14 	Books read in refectory, 13th cent.
+Bury				B15 	From list of Benefactors, 15th cent.
+Bury				B16 	Leland, c. 1536-40
+Carisbrooke			B17 	Status, 1260
+Castle Acre 		B18	From will of Thomas Lexham, 1382
+Castle Acre 		B19 	Leland, c. 1536-40
+Chertsey 			B20 	Anonymus Reginensis, early 16th cent.
+Chester 			B21 	From will of Richard of Chester, 1347
+Colchester 			B22 	Leland, c. 1536-40
+Coventry 			B23 	Books written by John de Bruges, c. 1240
+Crowland 			B24 	Select list, early 14th cent.
+Crowland			B25 	Leland, c. 1536-40
+Crowland-Frieston 	B26 	Lincolnshire list, 1528
+Ely 				B27 	Receipt for return of books, 1329
+Ely				B28 	Leland, c. 1536-40
+Evesham 			B29 	Books acquired by Abbot Thomas Marlborough, early 13th cent.
+Evesham			B30 	Books bequeathed by Prior Nicholas (d. 1392) and others
+Evesham			B31 	Leland, c. 1536-40
+Eye 				B32 	Leland, c. 1536-40
+Eynsham 			B33 	Record of books on loan, 1363 x 1366
+Eynsham			B34 	Leland, c. 1536-40
+Faversham 			B35 	Leland, c. 1536-40
+Glastonbury 		B36 	Books given by A+Ethelnoth (1020-1038)
+Glastonbury			B37 	Books copied for Abbot Henry of Blois (1126-71)
+Glastonbury			B38 	Books copied for Prior Thomas (d. 1215)
+Glastonbury			B39 	Catalogue, 1247, with additions
+Glastonbury			B40 	Books bequeathed by Abbot John of Taunton (1274-91)
+Glastonbury			B41 	Books given by Abbot Walter of Taunton (1322-3)
+Glastonbury			B42 	Books given by Abbot Adam of Sudbury (1323-34)
+Glastonbury			B43 	Books acquired by Abbot Walter of Monington (1342-75)
+Glastonbury			B44 	Leland, c. 1536-40
+Glastonbury			B45 	Bale, c. 1550
+Gloucester 			B46 	Books given by Richard of Stow, 13th cent.
+Gloucester			B47 	Books owned by Robert of Aldsworth, 13th cent.
+Gloucester			B48 	Books acquired by Abbot John de Gamages (1284-1306)
+Gloucester			B49 	Leland, c. 1536-40
+Holme St Benet's 		B50 	Leland, c. 1536-40
+Hyde 				B51 	Leland, c. 1536-40
+Hyde				B52 	Anonymus Reginensis, early 16th cent.
+Lewes-Monkton Farleigh 	null	Note on books listed in tabula, 1338
+Malmesbury			B53 	Books acquired by William Favel, late 13th cent.
+Malmesbury			B54 	Leland, c. 1536-40
+Monk Bretton		B55 	Inventory of books, 1558
+Montacute			B56 	Leland, c. 1536-40
+Norwich 			B57 	Extracts from the obedientiary rolls, 1273-1317
+Norwich			B58 	Books owned by Simon Bozoun, 14th cent.
+Norwich			B59 	Fragmentary list of books, 16th cent.
+Norwich			B60 	Leland, c. 1536-40
+Norwich			B61 	Bale, c. 1550
+Norwich St Leonard's 	B62 	Inventory, 1423
+Norwich St Leonard's	B63 	Inventory, 1453
+Norwich-Yarmouth 		B64 	Inventory, ?c. 1425
+Pershore 			B65 	Leland, c. 1536-40
+Pontefract 			B66 	Leland, c. 1536-40
+Ramsey 			B67 	Fragment of catalogue, mid-14th cent.
+Ramsey			B68 	Catalogue roll, late 14th cent.
+Ramsey			B69 	Books borrowed by John de Haliwell, ?13th cent.
+Ramsey			B70 	Leland, c. 1536-40
+Reading 			B71 	Catalogue, 1192
+Reading			B72 	Books presented to King John, 1208
+Reading			B73 	Letter concerning theft of a book, 1253
+Reading			B74 	Books kept in Dormitory, 14th cent.
+Reading-Leominster 	B75 	Catalogue, 1192
+Reading-Leominster	B76 	Books copied by William of Wycumbe, 13th cent.
+Rochester 			B77 	Catalogue, 1123
+Rochester 			B78 	Fragments of catalogue, early 12th cent.
+Rochester 			B79 	Catalogue, 1202
+Rochester 			B80 	Books acquired by Alexander,
+Rochester 			B81 	Books given, early 13th cent.
+Rochester 			B82 	Books given to cathedral by Bishop Haimo Hethe, 1346
+Rochester 			B83 	Indenture, 1391
+Saffron Walden 		B84 	Leland, c. 1536-40
+St Albans 			B85 	Bale's excerpts from Indiculus of Walter the Chanter (fl. 1180)
+St Albans			B86 	Books returned from Hertford, 1396 x 1420
+St Albans			B87 	Borrowers' list, 1420 x 1437
+St Albans			B88 	Abbot Whethamstede's accounts, 1420 x 1440
+St Albans			B89 	Fragment of list of Whethamstede's books, after 1452
+St Albans			B90 	Bale's excerpts from list of Whethamstede's books, c. 1550
+St Albans			B91	Leland, c. 1536-40
+St Albans-Belvoir 	B92 	List of books,
+St Albans-Tynemouth 	B93 	Leland, c. 1536-40
+St Neots		 	null	Note on books seen by Leland, c. 1536-40
+Sherborne 			B94 	Leland, c. 1536-40
+Shrewsbury 			null	Note on books owned by John Langley of the Amies, 1670s
+Spalding 			B95 	Visitation, 1438
+Spalding			B96 	Leland, c. 1536-40
+Tavistock 			B97 	Leland, c. 1536-40
+Tewkesbury 			B98 	Leland, c. 1536-40
+Thetford 			B99 	Leland, c. 1536-40
+Thorney 			B100 	Borrowers' lists, early 14th cent.
+Thorney			B101 	Leland, c. 1536-40
+Thorney-Deeping 		B102 	Inventory of books, 14th cent.
+Totnes 			B103 	Leland, c. 1536-40
+Westminster 		B104 	Loan of books to Thomas Southam, 1369
+Westminster			B105 	Inventory of Archbishop Langham's bequest, 1376
+Westminster			B106 	Receipt for further goods of Archbishop Langham, 1378
+Westminster			B107 	Books bequeathed by Br Richard Exeter, 1396
+Westminster			B108 	Leland, c. 1536-40
+Whitby 			B109 	Catalogue, late 12th cent.
+Whitby 			B110 	Leland, c. 1536-40
+Wilton 			B111 	List of books, early 16th cent.
+Winchcombe 			B112 	Leland, c. 1536-40
+Winchester 			B113 	Anonymus Reginensis, early 16th cent.
+Worcester 			B114 	List of books in English, 11th cent.
+Worcester			B115 	List of school-books, ? early 12th cent.
+Worcester			B116 	List of books at Oxford, mid 15th cent.
+Worcester			B117 	Books bought by Prior William More, 1518-31
+Worcester			B118 	Leland, c. 1536-40
+Wymondham 			B119 	Leland, c. 1536-40
+York St Mary's 		B120 	Index catalogue of selected authors, 15th cent.
+York St Mary's		B121 	Leland, c. 1536-40
+York St Mary's-Rumburgh B122 	Inventory, 1439 
+York St Mary's-Rumburgh	B123	Inventory, 1448
+York St Mary's-Rumburgh	B124	Inventory, 1482
+
+BENEDICTINES
+
+Canterbury-St Augustine's 	BA1	Catalogue, 15th cent.
+Canterbury-St Augustine's	BA2	Books noted in additions to Martyrology, late 12th to early 13th cent.
+Canterbury-St Augustine's	BA3	Books noted by Thomas Sprot and William Thorne, early (?) and late 14th cent.
+Canterbury-St Augustine's	BA4	Books borrowed by a monk, later 14th cent.
+Canterbury-St Augustine's	BA5	Books noted by Thomas Elmham, 1414
+Canterbury-St Augustine's	BA6	Books stolen by John Gaywoode, 1457
+Canterbury-St Augustine's	BA7	Select titles noted by Leland, before 30 July 1538
+Canterbury-St Augustine's	BA8	Books noted in Leland's Scriptores, c. 1545
+Canterbury-Christ Church 	BC1 	List of school texts, c. 1180.
+Canterbury-Christ Church	BC2 	List of choir books, ???.
+Canterbury-Christ Church	BC3 	Philosophy, history and modern authors, c. 1225.
+Canterbury-Christ Church	BC4 	Prior Eastry's catalogue, not after 1331.
+Canterbury-Christ Church	BC5 	Inventory in Prior Eastry's register, 1331.
+Canterbury-Christ Church	BC6 	List of books missing, 1337.
+Canterbury-Christ Church	BC7 	Prior Chillenden's bequest, 1411.
+Canterbury-Christ Church	BC8 	List of books repaired, 1508.
+Canterbury-Christ Church	BC9	Select titles noted by Leland, 1536 x 1540.
+Canterbury College, Oxford	null
+Durham 				BD 
+Dover-St Martin's 		BM1 	John Whitfield's catalogue, 1389
+Dover-St Martin's		 	BM2 	Leland, c. 1536-40.
+Peterborough 			BP1  	Books given by Bishop Æthelwold (d. 984)  
+Peterborough			BP2  	Catalogue, early 12th cent.
+Peterborough			BP3	Books copied for Abbot Benedict (1177-93)
+Peterborough			BP4	Books given by Abbot Robert of Lindsey (1214-22)
+Peterborough			BP5	Books given by Abbot Alexander of Holderness (1222-6)
+Peterborough			BP6	Books given by Abbot Martin of Ramsey (1226-33)
+Peterborough			BP7	Books given by Abbot Walter of St. Edmund (1233-45)
+Peterborough			BP8	Books given by Abbot William de Hotot (1246-9)
+Peterborough			BP9	Books given by Abbot John de Caux (1250-63)
+Peterborough			BP10	Books given by Abbot Robert of Sutton (1263-74)
+Peterborough			BP11	Books given by Prior John of Threckingham, late 13th cent.
+Peterborough			BP12	Books given by Abbot Richard of London (1274-95)
+Peterborough			BP13	Books given by Abbot William of Woodford (1295-9)
+Peterborough			BP14	Books given by Abbot Godfrey of Crowland (1299-1321)
+Peterborough			BP15	Books given by Abbot Adam of Boothby (1321-38)
+Peterborough			BP16	Books given by Abbot Henry of Morcott (1338-53)
+Peterborough			BP17	Books given by Abbot Robert of Ramsey (1353-61)
+Peterborough			BP18	Books given by Abbot Henry of Overton (1361-91)
+Peterborough			BP19	Books given by Abbot Nicholas Elmstow (1391-6)
+Peterborough			BP20	List of books read in the refectory, 13th cent.
+Peterborough			BP21  Catalogue, late 14th cent.
+Peterborough			BP22	Books noted by William Morton, almoner, 1458-61
+Peterborough			BP23	Leland, c. 1536-40
+
+
+BRIGITTINES				
+
+Syon				SS1	Registrum of the library of the Brethren, c. 1500-c. 1524
+Syon				SS2	Class-marks reconstructed from Betson's Index and from erasure
+
+
+CARTHUSIANS
+
+Hinton			C1	Loans to another charterhouse, 1343
+London			C2	Loans to Hull, late 15th or early 16th cent.
+London			C3	Loans to Coventry, 1500
+London			C4	Loans to Hinton, early 16th cent.
+London			C5	Loans to Hinton, early 16th cent.
+London			C6	Loans to Beauvale, 1510
+London			C7	Loans to Mountgrace, 1519/20
+Witham			C8	John Blacman's gifts, c. 1463-74
+Unidentified		C9	Loans to another charterhouse, 1425
+
+
+FRIARS
+
+York Austin Friars 	FA8 	Catalogue, 1382, with additions
+
+
+GILBERTINES
+
+Bullington 			G1 	Lincolnshire list, 1528
+Haverholme 			G2 	Lincolnshire list, 1528
+Lincoln 			G3 	Lincolnshire list, 1528
+Newstead 			G4 	Lincolnshire list, 1528
+North Ormsby 		G5 	Lincolnshire list, 1528
+
+
+LIBRARIES OF KING HENRY VIII
+
+Richmond Palace 		H1 	Inventory of books, February 1535
+Westminster 		H2 	Inventory of the Upper Library, 1542
+various 			H3 	Thomas Berthelet's account, 1541-3
+Westminster 		H4 	Books seen by Bale, 1547-50.
+various 			H5 	Books mentioned in the post-mortem inventory, 1547.
+
+
+HENRY DE KIRKESTEDE
+HENRY DE KIRKESTEDE	K1	Catalogus, c. 1360
+
+PREMONSTRATENSIANS
+
+Barlings 			P1 	Lincolnshire list, 1528
+Bradsole			P2 	Catalogue, late 13th cent.
+Hagnaby			P3 	Books received by A. Wadington, 1511
+Hagnaby			P4 	Lincolnshire list, 1528
+Newsham 			P5 	Lincolnshire list, 1528
+Titchfield 			P6 	Catalogue, Michaelmas 1400
+
+
+REGISTRUM ANGLIE
+
+Registrum 			R 	Union catalogue by author and title, early 14th cent.
+
+
+SCOTLAND
+
+Aberdeen cathedral			S1	Catalogue, 1436
+Aberdeen cathedral			S2	Catalogue, 12 March 1465
+Aberdeen, King's College		S3	Inventory, 1542
+Aberdeen, King's College		S4	Lists of borrowed books, c. 1557
+Aberdeen, St Nicholas			S5	Books at altar of St Duthac given by Duncan Shearer, early 16th cent
+Arbroath abbey				S6	Books left by Richard Guthrie, 1473
+Coldingham priory				S7	Inventory of sacristy, 7 June 1362
+Coldingham priory				S8	Inventory of sacristy, 1371
+Coldingham priory				S9	Inventory of goods, 10 Jan 1446/7
+Crail collegiate church			S10	Inventory, c. 1540
+Dunfermline abbey				null	Note on works listed in Registrum Anglie
+Edinburgh castle				S11	Inventory, 26 March 1578
+Glasgow cathedral				S12	Inventory, 24 March 1433
+Glasgow university			S13	Books given by Duncan Bunch, 1473 × 1474
+Glasgow university			S14	Books given by Bishop John Laing, 1475
+Glasgow university			S15	Books given by John Brown, before 3 Nov 1483
+Holyrood abbey				null	Note on works listed in Registrum Anglie
+Holyroodhouse, Queen Mary's library	S16	Books received from Servais de Condé, 25 Nov 1569
+Holyroodhouse, Queen Mary's library	S17	Books from the dispersed library of Queen Mary, 1573–8
+Jedburgh abbey				null	Note on works listed in Registrum Anglie
+Kelso abbey					null	Note on works listed in Registrum Anglie
+Kinloss abbey				S18	Books given by Abbot Thomas Crystall, 1535
+Loch Leven priory				S19	Books transferred from Loch Leven to St Andrews priory, c. 1152–3
+Melrose abbey				null	Note on works listed in Registrum Anglie
+Newbattle abbey				null	Note on works listed in Registrum Anglie
+St Andrews cathedral priory		null	Note on works listed in Registrum Anglie
+St Andrews Dominicans			S20	Books in the possession of John Grierson OP, c. 1522
+St Andrews, St Leonard's College	S21	Books in the college library, 1597 or 1599
+St Mary's College				S22	Inventory of books, c. 1559 × 1574
+St Mary's College				S23	Inventory of books, probably 1588
+St Mary's College				S24	Inventory of books, 1598
+St Salvator's College			S25	List of service books, 14 March 1453/4
+St Salvator's College			S26	Inventory of service books, late 1th or early 16th cent.
+St Salvator's College			S27	List of service books distributed for safe keeping, c. 1559
+St Andrew's University			S28	Books donated to the faculty of arts, 13 August 1456
+St Andrew's University			S29	Books left as securities, 1475–7
+St Andrew's University			S30	List of books bequeathed by Alexander Inglis, 1496
+Stirling, Franciscans			S31	Payments to William Foular for books, 20 Feb 1503
+Stirling, Franciscans			S32	Payments for books, 20 April 1503
+Stirling, Chapel Royal			S33	Inventory of goods, 4 November 1505
+
+
+SECULAR INSTITUTIONS
+
+Secular Colleges
+Arundel		SC201	Books devised by Richard Fitzalan, 5 December 1375
+Arundel		SC202	Expenses memoranda, Michaelmas 1384–5
+Arundel       	SC203	Bequest by John Neele, 10 March 1498
+Arundel       	SC204 Inventory of goods, 14 June 1505
+Arundel       	SC205	Inventory of goods, 1 October 1517
+Ashford 		SC206	Bequest by John Mower, 12 April 1489
+Ashford		SC207	Bequest by Thomas Wilmott, 25 April 1493
+Ashford		SC208	Bequest by Clement Gyfford, 2 June 1507
+Battlefield		SC209	Inventory of goods, 30 October 1444	
+Beverley, Minster SC210	Bequest by William de Waltham, 5 October 1416
+Beverley, Minster SC211	Bequest by Robert Manfield, 12 April 1419
+Bishop Auckland	SC212	Record of gift from Bishop Richard Fox, 20 July 1499
+Bosham		SC213	List of books noted at a visitation, February 1282
+Bosham	      SC214	List of books noted at a visitation, 28 July 1294	
+Bosham		SC215	Inventory of church goods, 21 September 1371	
+Clifton		SC216	Bequest by Richard Lovet, 1 April 1491
+Cobham		SC217	Inventory of goods, 30 September 1397
+Cobham	      SC218	Bequest by Thomas Stone, 20 October 1464
+Cobham      	SC219	Inventory of goods, 25 December 1479	
+Crediton		SC220	Bequest by Bartholomew of St David, 9 Sept. 1223 × 30 Nov. 1225
+Crediton		SC221	Bequest by Bishop Thomas de Brantingham, 13 Dec. 1393
+Darlington		SC222	List of books in the library, 1487
+Derby			SC223	Inventory of church goods, 1466
+Derby		      SC224	Inventory of church goods, 12 May 1483
+Derby       	SC225	List of books chained in the Lady chapel, c. 1483
+Derby       	SC226	Inventory of church goods, 27 September 1527
+Eton College	SC227	Inventory of church goods, 10 April 1445
+Eton College      SC228	Bequest by John French, 29 April 1457
+Eton College      SC229	Inventory of goods, 7 September 1465
+Eton College      SC230	Bequest by John Bonour, 10 January 1467
+Eton College      SC231	Bequest by William Strete, 7 June 1482
+Eton College      SC232	Bequest by Robert Galon, 18 January 1485	
+Eton College      SC233	Bequest by John Mower, 12 April 1489
+Eton College      SC234	Bequest by Walter Smyth, 14 February 1524		
+Eton College      SC235	Inventory of church goods, before 21 October 1528
+Eton College      SC236	Inventory of service books, c. April 1531
+Eton College	SC237	Inventory of church goods, 17 March 1536 × 29 Dec. 1547
+Eton College      SC238	Bequest by Thomas Hunton, 28 June 1536
+Eton College      SC239	Bequest by Robert Cater, 22 December 1545		
+Eton College      SC240	Bequest by Bishop John Longlond, 23 March 1547
+Eton College      SC241	Bequest by Richard Williat, 3 August 1550
+Eton College      SC242 Excerpts from the Audit Books, 1548–9 to 1558–9	
+Eton College      SC243	List of books returned to the bursars, 8 December 1558
+Fotheringhay	SC244	Inventory of books in the library, 29 September 1445
+Fotheringhay      SC245	Bequest by Cecily, duchess of York, 31 May 1495
+Fotheringhay      SC246	Inventory of goods, 31 March 1546
+Fotheringhay      SC247	Memorandum on English bibles, 28 August 1546
+Fotheringhay      SC248	Memorandum on books, 3 September 1547
+Fotheringhay      SC249	Inventory of goods, 23 November 1547	
+Gloucester		null	Note on library				
+Hemingbrough	SC250	Bequest by Robert Knyght, 2 January 1504
+Heytesbury		SC251	List of books noted at a visitation, 29 September 1220
+Heytesbury		SC252	List of books noted at a visitation, 10 February 1409
+Howden		SC253	Inventory of church goods, May 1549
+Ipswich		SC254	Purchases of plate, 9 July 1528 to 20 October 1529
+Ipswich		SC255	Inventory of church goods, 22 Feb. × 29 Oct. 1529
+Irthlingborough	SC256	Bequest by John Pyel, 12 February 1380
+Leicester		SC257	Bequest by Bishop Thomas Langley, 21 Dec. 1436
+Lingfield		SC258	List of goods given by the founders, after 1431	
+Lingfield		SC259	Inventory taken at the surrender, 26 April 1544
+London, St Martin-le-Grand		SC260	Record of an inquisition, 6 July 1360
+London, St Martin-le-Grand    	SC261	Bequest by Robert de Pleseley, 22 May 1368	
+London, St Martin-le-Grand   		SC262	Inventory of books and vestments, after 1503
+London, Guildhall College		SC263	Bequest by Edmund Alynson, 3 August 1510
+London, Whittington's College 	SC264	Bequest by Edward Lupton, 19 October 1482
+London, Jesus Commons 			null	Note on library
+London, St James Commons		SC265	Inventory of church goods, 1449
+London, St James Commons      	SC266	Bequest by Thomas Kent, 19 January 1469
+London, St Peter-upon-Cornhill 	SC267	Bequest by Thomas Penyngton, 15 March 1493
+London, St Peter-upon-Cornhill      SC268	Leland, autumn 1534 × spring 1535
+London, St Peter-upon-Cornhill      SC269	Inventory of church goods, 22 April 1546 × 28 Jan. 1547	
+London, St Peter-upon-Cornhill	SC270	Memoranda, Michaelmas 1548 to Michaelmas 1551
+London, St Peter-upon-Cornhill      SC271	List of books in the church, 19 July 1552	
+Lowthorpe					SC272	Bequest by William Ruckshaw, 10 October 1504
+Maidstone					SC272A Bequest by John Wotton, 30 September 1417
+Maidstone				      SC273	Books received from the estate of William Grocyn, 1519
+Mettingham					SC274	Bequest by Robert, 6th Lord Willoughby de Eresby, 6 June 1452
+Mettingham					SC275	Bequest by George Fen, 3 September 1479
+Mettingham					SC276	Bequest by Edmund Skotyer, 29 November 1483
+Mettingham					SC277	Bequest by Sir James Hobart, 27 July 1516
+Norwich		 			SC278	Inventory of goods, 10 July 1478
+Norwich				      SC279	Deed of gift by Ralph Pulvertoft, 21 October 1497
+Norwich    					SC280	Bequest by Ralph Pulvertoft, 27 March 1505	
+Ottery St Mary				SC281	List of books taken to London, before November 1448
+Ottery St Mary			      SC282	Bequest by William Silke, 24 November 1506
+Pleshey					SC283	Inventory of goods, 10 January 1528
+Pontefract					null	Note on library
+Pott Shrigley				SC284	Inventory of church goods, 1493 × 1510
+Ripon, Minster				null	Note on library
+Rotherham					SC285	Bequest by William Rawson, 22 June 1495
+Rotherham 				      SC286	Bequest by Archbishop Rotherham, 24 August 1498
+Rotherham      				SC287	Donation by Henry Carnebull, 20 September 1499
+Rotherham       				SC288	Books from Archbishop Rotherham, after 29 May 1500
+Rotherham     				SC289	Return to the chantry commission, 4 June 1548
+Salisbury					SC290	Bequest by Robert Ragenhill, 17 July 1407
+South Malling				SC291	Bequest by William Piers, 18 February 1439	
+Southwell, Minster 			SC292	Inventory of goods at the parish altar, 6 August 1369
+Southwell, Minster		      SC293	Bequest by Henry Codyngton, 10 August 1404
+Southwell, Minster      		SC294	Bequest by Sir John de la Zouche, 9 September 1445
+Southwell, Minster     			SC295	Statement on church goods, 9 September 1552
+Stoke-by-Clare				SC296	Bequest by John Pyttard, 20 October 1494
+Stoke-by-Clare			      SC297	Bequest by Cecily, dowager duchess of York, 31 May 1495	
+Stoke-by-Clare				SC298	Bequest by Richard Lessy, 15 February 1498		
+Stoke-by-Clare				SC299	Inventory of church goods, 1 July 1534			
+Stoke-by-Clare				SC300	Inventory of church goods, 8 December 1547
+Sudbury					SC301 Inventory of goods, 10 May 1391
+Sudbury       				SC302	Bequest by John Donemowe, 15 April 1420
+Sudbury       				SC303	Bequest by Henry Gressham, 29 August 1420
+Sudbury       				SC304	Bequest by Geoffrey Bryce, 1 April 1446
+Sudbury       				SC305	Bequest by Henry Sythyng, 1 May 1464
+Sudbury       				SC306	Bequest by John Hervy, 20 September 1465
+Sudbury       				SC307	Bequest by Richard Crysale, 31 December 1465
+Sudbury       				SC308	Bequest by John Payn, 6 May 1488	
+Sudbury       				SC309	Bequest by William Woode, 6 April 1491
+Sudbury       				SC310	Bequest by Thomas Gooch, 21 September 1508
+Tamworth					SC311	Record of an inquisition, 16 January 1423
+Tamworth				      SC312	Inventory of goods returned to the church, 4 May 1548
+Tattershall					SC313	Excerpts from the accounts, 1443–4 to 1498–9
+Tattershall				      SC314	Lincolnshire list, summer 1528
+Wallingford					SC315	Bequest by Thomas de Lynton, 10 August 1387
+Warwick					SC316	Inventory of church goods, 2 February 1408	
+Warwick       				SC317	Bequest by Thomas Yonge, by 10 April 1432
+Warwick       				SC318	Transfer of books, 25 Sept. 1445 × 22 Feb. 1465
+Warwick					SC319	Inventory of church goods, 22 February 1465	
+Warwick      				SC320	Inventory of church goods, 31 March 1468	
+Westbury-on-Trym				SC321	Bequest by William Oakbourne, 30 July 1455
+Westminster, St Peter			SC322	Bill for books, 24 June–20 November 1553
+Westminster, St Peter       		SC323	Bill for service books, 11 November 1553
+Westminster, St Peter       		SC324	Bill for service books, c. November 1554
+Westminster, St Stephen			SC325	Assignment of books for an obit, 5 July 1410
+Westminster, St Stephen       	SC326	Bequest by William Morland, 5 April 1491
+Westminster, St Stephen       	SC327	Inventory of church goods taken at dissolution, 1548	
+Winchester College 			SC328	Memoranda on the purchase of books, 1394–1401						
+Winchester College			SC329	Bequest by William of Wykeham, 24 July 1404
+Winchester College       		SC330	Inventory of goods, 1 September 1405			
+Winchester College			SC331	Indenture of goods delivered to sacrist, 8 Dec. 1412	
+Winchester College       		SC332	Memoranda on the purchase of books, 1412–13
+Winchester College       		SC333	Inventory of goods, c. 1420
+Winchester College       		SC334	Inventory of goods, 1421/2
+Winchester College      		SC335	Inventory of the library, 30 July 1428 × 24 August 1429	
+Winchester College			SC336	Inventory of goods, 16 August 1432
+Winchester College       		SC337	Deed of gift by Robert Heete, 29 September 1432			
+Winchester College			SC338	Inventory of books chained and unchained, 24 Jan. 1433
+Winchester College       		SC339	Bequest by Michael Clive, 30 September 1501		
+Winchester College       		SC340	Inventory of goods, 1521					
+Winchester College			SC341	Inventory of church goods, 1526/7				
+Winchester College			SC342	Bequest by Archbishop William Warham, 25 November 1530	
+Winchester College			SC343	Excerpts from the Bursars' Rolls, 1528–9 to 1555–6		
+Winchester College			SC344	Bequest by Bishop John Holyman, 4 June 1558		
+Winchester College			SC345	Inventory of goods, 18 August 1565
+Winchester College       		SC346	List of books in Fromond's Chapel, 30 April 1566
+Windsor					SC347	Excerpts from the Precentors' Rolls, 1363–4 to 1383–4
+Windsor					SC348	Inventory of books and church goods, 1384–5
+Windsor					SC349	Bill for books produced for the chapel, 1389						
+Windsor					SC350	Excerpts from the Precentors' Rolls, 1385–6 to 1408–9					
+Windsor					SC351	Inventory of books and church goods, 1409–10
+Windsor					SC352	List of service books received from King Henry V, 1415
+Windsor					SC353	Excerpts from the Precentors' Rolls, 1413–14 to 1428–9
+Windsor					SC354	Bill for bookbinding, June 1429	
+Windsor					SC355	Excerpts from the account rolls, 1430–31 to 1492–3
+Windsor       				SC356	Books for feasts of BVM & St Osmund, late 15th cent.
+Windsor       				SC357	List of service books in Somerset Chantry, 30 July 1506
+Windsor       				SC358	List of books in the hall of Denton's Commons, 1520	
+Windsor					SC359	Excerpts from the Precentors' Rolls, 1522–3 to 1546–7
+Windsor       				SC360	Inventory of church goods, 3 October 1547
+Windsor       				SC361	Excerpts from the Precentors' Rolls, 1553–4 to 1557–8 
+Wingfield					SC362	Bequest by Robert Bolton, 25 March 1434
+Wingham					SC363	Bequest by John Parmenter, 17 August 1479			
+Wingham       				SC364	Inventory of church goods, 1546			
+Wye						null	Note on library
+
+Hospitals, Towns, and the Professions
+
+Beverley hospital					SH1	Inventory of church goods, 9 Jan 1419/20
+Bishop's Clyst hosptial				null	Note on the library
+Blyth hospital					SH2	Inventory of goods, 24 June 1471
+Boston hospital					SH3	Bequest by Thomas Nesse, 28 July 1463
+Boston guild					SH4	Inventory of goods, 1523 × 1524
+Boston guild					SH5	Inventory of goods, 2 July 1533
+Bridport hospital					SH6	Inventory of goods, 9 October 1453
+Bristol hospital					SH7	Bequest by Lord Berkeley, 2 February 1415/16
+Bristol town library				null	Note on library
+Bristol grammar school				null	Note on library
+Brough-under-Stainmore grammar school	SH8	Inventory of goods, May or June 1546
+Bury St Edmunds hospital			null	Note on library
+Canterbury, St James				SH9	Inventory of goods, 1546
+Canterbury, St John the Baptist		SH10	Bequest by William Garnare, 26 April 1511
+Canterbury, St John the Baptist		SH11	Inventory of goods, 1546
+Canterbury, St Nicholas				SH12	Inventory of goods, 1546
+Coventry guild					SH13	Inventory of goods, 15 December 1441
+Dover, Domus Dei					null	Note on library
+Ewelme, Domus Dei					SH14 	Inventory of goods, 10 September 1466
+Exeter hospital					null	Note on library
+Gateshead hospital				SH15	Inventory of goods, 1 February 1326
+Hedon grammar school				SH16	Bequest by John Elwyn, 24 November 1465
+Kepier hospital					SH17	Bequest by Robert Wycliffm 8 September 1423
+Kepier hospital					SH18	Inventory of goods, 7 December 1507
+King's Lynn, St John the Baptist		SH19	Bequest by Thomas of Lexham, 31 October 1382
+King's Lynn, St Mary Magdalen			SH20	List of books taken away, 21 March 1454/5
+Lathom almshouse					null	Note on library
+Ledbury hospital					SH21	Inventory of goods, 27 January 1315/16
+Lincoln,Holy Innocents				SH22	Inventory of goods, 13 August 1316
+London, St Anthony				SH23	Inventory of chapel goods, 1499
+London, hospital of St Bartholomew		SH24	List of books recovered for the house, 1424
+London, hospital of St Bartholomew		SH25	Inventory of goods, 3 May 1546
+London, hospital of St Bartholomew		SH26	Memorandum about books bought, 2 September 1533
+London, hospital of St Bartholomew		SH27	Inventory of goods, 7 November 1558
+London, hospital of St Giles			SH28	Inventory of goods, 7 June 1371
+London, hospital of St Giles			SH29	List of books removed, 11 September 1391
+London, hospital of St Katherine		SH30	Bequest by John Ricard, 14 December 1448
+London, hospital of St Katherine		SH31	Inventory of goods, 2 March 1545/6
+London, hospital of St Mary Elsing		SH32	Bequest of John Brian, 18 May 1361
+London, hospital of St Mary Elsing		SH33	Inventory of books, 7 October 1448
+London, hospital of St Mary Elsing		SH34 	List of goods restored to prior, 1536
+London, hospital of St Mary of Bethlehem	SH35	Inventory of goods, 6 March × 12 May 1403
+London, hospital of St Thomas of Acre	SH36	Bequest by John Overton, 1 May 1507
+London bridge chapel				SH37	Inventory of chapel goods, 4 November 1350
+London, Court of Arches				SH38	Bequest by Thomas Kent, 19 January 1468/9
+London, Inns of Court				null	Note on libraries
+London, Gray's Inn				SH39	Bequest by Edmund Pickering, 26 November 1488
+London, Gray's Inn				SH40	List of books in the chapel, 8 November 1552
+London, Lincoln's Inn				SH41	List of books in the treasury, 1 November 1512
+London, Lincoln's Inn				SH42	List of books in the treasury, 1 November 1514
+London, Lincoln's Inn				SH43	List of books purchased for the chapel, 1547–8
+London, Lincoln's Inn				SH44	List of books purchased for the chapel, 1554–5
+London, Inner Temple				SH45	Bequest by Thomas Jakes, 20 January 1512/13
+London, Middle Temple				null	Note on library
+London, Guildhall					SH46	Bequest by Andrew Horn, 9 October 1328
+London, Guildhall					SH47	List of books, c. 1470
+London, Guildhall library			SH48	Bequest by Hugh Damlett, 6 July 1475
+London, Guildhall library			SH49	Bequest by John Graunte, 2 March 1516/17
+London, Barber-Surgeons' Co.			SH50	Bequest by Thomas Colard, 14 October 1481
+London, College of Physicians			null	Note on library
+London, Clarenceux King of Arms		SH51	Bequest by Thomas Benolt, 30 June 1534
+London, Chancery of Duchy of Lancaster	SH52	Bequest by John Scarle, 22 April 1403
+London, Mercers					null	Note on library
+Manchester grammar school			null	Note on library
+Newcastle-upon-Tyne, hospital of St Mary	SH53	Inventory of goods, 10 November 1444
+Norwich, St Giles					SH54	Bequest by John Smith, 11 June 1489
+Norwich, St Giles					SH55	List of expenditure on books, 1512–13
+Norwich, hospital of St Mary Magdalen	SH56	Inventory of goods, 1368
+Norwich town library				SH57	Bequest by Bishop James Goldwell, 15 June 1497
+Pontefract almshouse				SH58	Inventory of goods, 15 November 1432
+Ripon, hospital of St John the Baptist	SH59	Inventory of goods, 6 September 1370
+Ripon, hospital of St Mary Magdalen		SH60	Inventory of goods, 9 March 1336
+Rochester cathedral			 	SH61	Books given to cathedral by Bishop Haimo Hethe, 1346
+Rochester bridge chapel				null	Note on library
+Rome, English hospital				SH62	Inventory of goods, 1 October 1496
+Rome, English hospital				SH63	List of donations, November 1498
+Rome, English hospital				SH64	Inventory of goods, before 30 March 1501
+Rome, English hospital				SH65	Inventory of goods, 1502–3
+Rome, English hospital				SH66	Inventory of goods, 6 November 1506
+Rome, English hospital				SH67	List of donations and goods, 9 February 1525
+Rome, English hospital				SH68	Inventory of goods, 16 May 1525
+Rome, English hospital				SH69	Inventory of goods, 26 April 1538
+Rome, English hospital				SH70	Inventory of goods, 27 January 1561
+Rome, English hospital				SH71	Inventory of goods, 4 May 1562
+Rome, English hospital				SH72	Inventory of goods, 1 May 1563
+Rome, English hospital				SH73	Inventory of goods, 4 May 1564
+Rome, English hospital				SH74	Inventory of goods, 4 May 1565
+Rome, English hospital				SH75	Inventory of goods, 4 May 1566
+Rome, English hospital				SH76	Inventory of goods, 4 May 1567
+Rome, English hospital				SH77	Inventory of goods, 4 May 1568
+Rome, English hospital				SH78	Inventory of goods, 4 May 1569
+Rome, English hospital				SH79	Inventory of goods, 4 May 1570
+Rome, English hospital				SH80	Inventory of goods, 4 May 1571
+Rome, English hospital				SH81	Inventory of goods, 4 May 1572
+Rome, English hospital				SH82	Inventory of goods, 4 May 1573
+Rome, English hospital				SH83	Inventory of goods, 21 May 1574
+Rome, English hospital				SH84	Inventory of goods, 21 May 1575
+Rome, English hospital				SH85	Inventory of goods, 26 May 1576
+Rome, English hospital				SH86	Inventory of goods, 26 August 1577
+Rome, English hospital				SH87	Inventory of goods, 17 May 1578
+Saffron Walden almshouse			SH88	List of chained books, 5 August 1400
+Salisbury hospital				SH89	Inventory of goods, 20 December 1418
+Salisbury hospital				SH90	Inventory of goods, 1436
+Sandwich hospital					SH91	Inventory of goods, 28 March 1490
+Sandwich hospital					SH92	Inventory of chapel goods, 15 December 1494
+Sandwich hospital					SH93	Inventory of goods, 16 April 1496
+Sandwich hospital					SH94	Inventory of goods, 21 January 1501/2
+Sandwich hospital					SH95	Inventory of goods, 29 May 1525	
+Sedbergh grammar school				null	Note on library
+Sevenoaks, hospitak				SH96	Inventory of goods, 30 March 1313
+Sherburn, hospital				SH97	Bequest by Martin of St Cross, 1 November 1259
+Sherburn, hospital				SH98	Bequest by Lionel Jackson, 15 October 1514
+Southampton, Domus Dei				SH99	Inventory of goods, 1289 × 1291
+Southampton, Domus Dei				SH100	Inventory of goods, 29 September 1362
+Southampton, Domus Dei				SH101	Inventory of goods, 24 June 1415
+Southampton, Domus Dei				SH102	Inventory of goods, 24 June 1417
+Southampton, Domus Dei				SH103	Inventory of goods, 24 June 1419
+Southwold, townsmen				SH104	Bequest by Robert Scolys, 6 June 1470
+Stamford,Browne's Hospital			SH105	Account, Michaelmas 1501–Michaelmas 1502
+Stamford, St Giles				SH106	Inventory of goods, 20 July 1265
+Stamford, hospital of St Thomas & St John	SH107	Inventory of goods, 20 July 1265
+Stratford-upon-Avon, guild of Holy Cross	SH108	Inventory of goods, 12 July 1454
+Stratford-upon-Avon, guild of Holy Cross	SH109	Inventory of goods, 20 July 1458
+Stratford-upon-Avon, guild of Holy Cross	SH110	Inventory of goods, 26 July 1456
+Thetford, hospital				SH111	Inventory of goods, 1368
+Wainfleet grammar sch				SH112	Bequest by Richard Ranson, 7 January 1549
+Wakefield bridge chap				SH113	Inventory of goods, 12 August 1498
+West Somerton hospital				SH114	List of books removed, 24 October 1297
+Westminster, hospital				SH115	Bequest by Henry Bost, 25 November 1503
+Whitkirk hospital and school			null	Note on library
+Winchester, Holy Cross				SH116	Bequest by Henricus de Segusio, 29 October 1271
+Winchester, Holy Cross				SH117	Inventory of goods, 28 March 1368
+Winchester, Holy Cross				SH118	Inventory of goods, 4 April 1383
+Winchester, Holy Cross				SH119	Inventory of goods, c. 1406
+Winchester, St John the Baptist		SH120	Inventory of goods, 1441–2
+Winchester, St Mary Madgalen			SH121	Inventory of goods, c. 1400
+Worcester town library				SH122	Bequest by Robert Inkberrow, 7 December 1503
+Wotton-under-Edge, school			null	Note on library
+Writtle hospital					SH123	Inventory of goods, 1 March 1343/4
+York, hospital of Christ and St Mary	SH124	Bequest of William Otteley, 17 June 1432
+York, hospital of Christ and St Mary	SH125	Inventory of goods, mid 16th cent.
+York, St Leonard					SH126	Record of inquisition, 9 September 1364
+York, St Leonard					SH127	Bequest by John de Stokeslay, 10 August 1400
+York, St Leonard					SH128	Bequest by John Maltster, 28 April 1427
+York, St Leonard					SH129	Bequest by Robert Alne, 24 December 1440
+York, St Leonard					SH130	Bequest by John Warrand, 17 December 1445
+York, St Thomas					SH131	Inventory of goods, 21 June 1416
+York, St Thomas					SH132	Inventory of goods, 23 November 1451
+York, St Thomas					SH133	Inventory of goods, 22 October 1465
+York bridge chapel				SH134	Bequest by Robert de Howm, 1 October 1433
+
+
+UNIVERSITY AND COLLEGE LIBRARIES OF CAMBRIDGE	
+
+University				UC1  	Indenture referring to books in the common chest, 1363
+University				UC2	Register of benefactors, c. 1424–c. 1440
+University				UC3	Register, 1473
+University				UC4	References to books in the accounts, 1458-1541
+University				UC5	Bidding prayer mentioning donors and gifts, c. 1510
+University				UC6	Leland, c. 1535
+University				UC7	Inventory for the Marian commissioners, 1557
+Burden Hostel			UC8	List of canon and civil law books, 1529
+Christ's College			UC9	Inventory of goods belonging to Godshouse, after 1451
+Christ's College			UC10	Medieval donors in a register of donors, 1623
+Clare College			UC11	Inventory, c. 1440
+Clare College			UC12	List of benefactors, c. 1440
+Clare College			UC13	References to book donations in the Acta, c. 1448–1505
+Clare College			UC14	Inventory of unbound books, 1496
+Clare College			UC15	Leland, c. 1535
+Clare College			UC16	Inventory, 20 January 1556/7
+Clare College			UC17	Inventory, 7 September 1560
+Corpus Christi College		UC18	Inventory, c. 1376
+Corpus Christi College		UC19	Thomas Markaunt's bequest, 1439
+Corpus Christi College		UC20	John Tittleshall's bequest, 1458
+Corpus Christi College		UC21	Electiones of Markaunt's & Tittleshall's books, c. 1458-1516
+Corpus Christi College		UC22	Books granted by Peter Nobys, after July 1525
+Corpus Christi College		UC23	Leland, c. 1535
+Corpus Christi College		UC24	Books noted in the chapel by Matthew Parker, c. 1544
+Corpus Christi College		UC25	Inventory, mid 16th cent.
+Gonville and Caius College	UC26	Register of books borrowed, 1406–10
+Gonville and Caius College    UC27	Leland, c. 1535
+Jesus College			UC28	Leland, c. 1535
+King's College			UC29	Inventory, c. 1457
+King's College			UC30	Inventory for the Marian commissioners, 31 January 1557
+King's Hall				UC31	Inventory, 1361-2
+King's Hall				UC32	Books of civil law donated by Edward III, 20 January 1368
+King's Hall				UC33	Register of books borrowed, 1386/7
+King's Hall				UC34	Register of books borrowed, 1385 x 1388
+King's Hall				UC35	Register of books borrowed, 1390--91
+King's Hall				UC36	Catalogue, 1390/91
+King's Hall				UC37	Register of books borrowed, 1391/3
+King's Hall				UC38	Other borrowing records in the accounts, 1392--1422
+King's Hall				UC39	Books granted by Henry VI, 2 July 1440
+King's Hall				UC40	References to books in the accounts, 1393--1512
+King's Hall				UC41	Leland, c. 1535
+Michaelhouse			null	Note on library and donors
+Pembroke College			UC42	List of philosophy books, 15th cent.
+Pembroke College			UC43	List of benefactors, c. 1490
+Pembroke College			UC44	Leland, c. 1535
+Pembroke College			UC45	Inventory for the Marian commissioners, 1557
+Pembroke College			UC46	References to books in the accounts, noted 1617
+Pembroke College			UC47	List of benefactors, compiled 1617
+Peterhouse				UC48	Catalogue, 24 Dec. 1418
+Peterhouse				UC49	Leland, c. 1535
+Queens' College			UC50	Inventory, 1472
+Queens' College			UC51	References to books in the accounts, 1484--1535
+Queens' College			UC52	Leland, c. 1535
+St Catharine's College		UC53	List of benefactors, 1504 x 1522
+St John's College			UC54	Inventory, c. 1516
+St John's College			UC55	Inventory, 23 September 1544
+St John's College			UC56	Inventory for the Marian commissioners, '12 January 1557'
+Trinity Hall			UC57	Books granted by the founder, 1 June 1352
+Trinity Hall			UC58	Memorandum counting law books, 9 October 1381
+Trinity Hall			UC59	Leland, c. 1535
+Trinity Hall			UC60	Inventory for the Marian commissioners, 22 January 1556/7
+Donor documents			UC101	Will of Robert Alne, 24 Dec 1440; University
+Donor documents			UC102	Gift of Thomas Anlaby, after 1431; Pembroke Hall
+Donor documents			UC103	Will of Richard Atkynson, 23 July 1556; King's College
+Donor documents			UC104	Will of Robert Ayscough, 2 Sept 1444; Michaelhouse
+Donor documents			UC105	Will of Robert Barker, 18 Sept 1504; various
+Donor documents			UC106	Will of Robert Battersby, 3 Oct 1502; University
+Donor documents			UC107	Bequest of John Beverley, 1473; Gonville
+Donor documents			UC108	Will of William Boston, 5 Jan 1473; King's College
+Donor documents			UC109	Will of Richard Brocher, 31 May 1487; Corpus Christi
+Donor documents			UC110	Books purchased from Henry Bullock, c. 1526; Queens' 
+Donor documents			UC111	Will of Elizabeth de Burgh, 25 September 1355; Clare Hall
+Donor documents			UC112	Will of William Bylby de Sutton, 12 March 1452; University
+Donor documents			UC113	Record of book given by William Carlell, before 1498; Michaelhouse
+Donor documents			UC114	Will of Geoffrey Champeneys, 12 March 1472; various
+Donor documents			UC115	Will of Thomas Colyer, 1506; various
+Donor documents			UC116	Will of Walter Crome, 5 August 1452; University
+Donor documents			UC117	Will of William Crosse, 12 August 1434; Corpus Christi
+Donor documents			UC118	Will of Henry Crossley, January 1526; various
+Donor documents			UC119	Will of Hugh Damlett, 6 July 1475; various
+Donor documents			UC120	Will of George Day, 28 July 1556; various
+Donor documents			UC121	Will of John de Donewich, 6 April 1392; Clare Hall
+Donor documents			UC122	Will of Richard Dunmow, 15 June 1414; Pembroke Hall
+Donor documents			UC123	Will of John Fabe, 10 August 1504; Godshouse
+Donor documents			UC124	Will of Thomas Fissher, 10 December, 1464; University
+Donor documents			UC125	Will of Robert Fitzhugh, 15 June 1434; University
+Donor documents			UC126	Will of Nicholas Gay, 19 June 1474; Peterhouse
+Donor documents			UC127	Will of William Gedge, 2 October 1500; Peterhouse
+Donor documents			UC128	Will of John Geffray, 31 October 1479; King's
+Donor documents			UC129	Will of John Gilpin, 27 December 1530; Jesus
+Donor documents			UC130	Will of William Hasilbeck, 8 August 1504; Jesus
+Donor documents			UC131	Will of Richard Hatton, 23 May 1509; King's College
+Donor documents			UC132	Will of Robert Hayles, 31 May 1497; Gonville Hall
+Donor documents			UC133	Will of John Hesewell, 25 October 1500; King's College
+Donor documents			UC134	Record of books purchased by Richard Holme, 1406; King's Hall
+Donor documents			UC135	Will of Henry Hornby, 10 December 1517; various
+Donor documents			UC136	Will of William Hunden, 27 January 1416; University
+Donor documents			UC137	Will of John Hurt, 14 September 1476; various
+Donor documents			UC138	Will of Robert Knyght, 2 January 1504; St William's Hostel
+Donor documents			UC139	Will of Bryan Kydall, 1502; various
+Donor documents			UC140	Will of William Lambert, 27 November 1521; Pembroke Hall
+Donor documents			UC141	Will of Thomas Langley, 21 December 1436; University
+Donor documents			UC142	Will of John Lenne, 22 September 1375; Clare Hall
+Donor documents			UC143	Will of Thomas de Lexham, 31 October 1382; Clare Hall
+Donor documents			UC144	Will of John Leystoft, 27 February 1462; Pembroke Hall
+Donor documents			UC145	Will of John Lownde, 6 October 1505; Peterhouse
+Donor documents			UC146	Will of William Lyndwood, 22 November 1443; University
+Donor documents			UC147	Will of Lawrence Maptyt, 9 November 1557; various
+Donor documents			UC148	Book donated by Richard Nelson, before 1512; Michaelhouse
+Donor documents			UC149	Will of John Newton, 30 June 1414; Peterhouse
+Donor documents			UC150	Record of gift of John Oteringham, before 1454; Michaelhouse
+Donor documents			UC151	Will of John Plente, 9 May 1483; King's College
+Donor documents			UC152	Will of Richard Poringland, 10 April 1471; Peterhouse
+Donor documents			UC153	Will of John Proctor, 26 August 1510; Michaelhouse
+Donor documents			UC154	Will of William Rightwise, 3 April 1502; Gonville Hall
+Donor documents			UC155	Will of John Rowclyff, 1 July 1492; King's Hall
+Donor documents			UC156	Will of John Sampson, 3 August 1517; King's College
+Donor documents			UC157	Will of Robert Scolys, 6 June 1470; Clare Hall
+Donor documents			UC158	Will of Stephen Scrope, 24 August 1418; Gonville Hall
+Donor documents			UC159	Will of John Speyrhawke, 25 March 1472; various
+Donor documents			UC160	Receipt of bequest of Hervey de Stanton, 20 March 1328; Michaelhouse
+Donor documents			UC161	Book donated by Thomas Stoyle, 1485/6; University
+Donor documents			UC162	Will of Roger de Sutton, 21 April 1371; Peterhouse
+Donor documents			UC163	Will of John Syclyng, 24 September 1506; Christ's College
+Donor documents			UC164	Will of John Thornhill, 22 May 1420; University
+Donor documents			UC165	Will of Hugh Trotter, 31 August 1503; various
+Donor documents			UC166	Will of William Waltham, 5 October 1416; King's Hall
+Donor documents			UC167	Will of William Warmyster, 13 October 1457; King's College
+Donor documents			UC168	Will of Thomas Wellys, 14 January 1476; various
+Donor documents			UC169	Will of Robert de Weston, 3 March 1389; Trinity Hall
+Donor documents			UC170	Will of Adam Wickmer, 4 October 1381; Trinity Hall
+Donor documents			UC171	Will of Henry Wingefeld, 6 August 1500; Gonville Hall
+Donor documents			UC172	Will of William Wodcoke, 7 March 1488; various
+Donor documents			UC173	Will of William Woode, 6 April 1491; University
+Donor documents			UC174	Book bequeathed by John Wortham, by 1447; Michaelhouse or King's Hall
+Donor documents			UC175	Will of William Wyche, 1475; King's College
+
+UNIVERSITY AND COLLEGE LIBRARIES OF OXFORD	
+
+				
+
+CISTERCIANS
+
+Bealieu 			Z1 	Leland, c. 1536-40
+Bordesley 			Z2 	Books given by earl of Warwick, 1306
+Buckfast 			Z3 	Leland, c. 1536-40
+Byland 			Z4 	Leland, c. 1536-40
+Coggeshall 			Z5 	Leland, c. 1536-40
+Dunkeswell 			Z6 	Leland, c. 1536-40
+Flaxley 			Z7 	Catalogue, early 13th cent.
+Ford 				Z8 	Leland, c. 1536-40
+Fountains 			Z9 	Leland, c. 1536-40
+Jervaulx 			Z10 	Leland, c. 1536-40
+Kirkstead 			Z11 	Lincolnshire list, 1528
+London 			Z12	Valuation of goods, 1430
+Louth Park 			Z13	Lincolnshire list, 1528
+Meaux 			Z14 	Inventory of books, 1396
+Netley 			Z15 	Leland, c. 1536-40
+Newenham 			Z16 	Books given by John Godard, 1246-8
+Revesby 			Z17 	Leland, c. 1536-40
+Revesby			Z18 	Lincolnshire list, 1528
+Rievaulx 			Z19 	First catalogue, c.  1190-1200
+Rievaulx			Z20 	Second catalogue, c.  1190-1200
+Rievaulx			Z21 	Leland, c. 1536-40
+Sawtry 			Z22 	Leland, c. 1536-40
+Stoneleigh 			Z23 	Inventory of goods, 1386
+Stratford Langthorne 	Z24 	Leland, c. 1536-40
+Swine 			Z25 	Books given by Peter, late 14th or early 15th cent.
+Warden 			Z26 	Leland, c. 1536-40
+Waverley 			Z27 	Leland, c. 1536-40
+
+
+UNIDENTIFIED LIBRARIES
+
+Cambridge, Trinity College, O. 1. 59		Q1 	List of books, 12th cent.
+London, British Library, Royal 6 A. XIII 		Q2 	List of books, 12th cent.
+London, British Library, Royal 15 A. XXXI 	Q3 	List of books, 14th cent.  Probably books belonging to a schoolmaster? The only item legible is a copy of Juvenal.
+London, British Library, Royal 15 B. II 		Q4 	List of books, late 12th cent.  The Royal Library catalogue assigned this to Bury St Edmunds, but it is not a Bury book (see note on B13. 49).
+London, British Library, Royal 15 D. II		Q5 	List of books in English, 15th cent.  Books belonging to Cicely Welles, daughter of Edward IV (edn in prep by Mary Hamel).
+London, British Library, Sloane 3548 fol. 158 	Q6 	List of books.  Perhaps a Carthusian list?
+Oxford, Bodleian Library,  Rawlinson C. 440 	Q7 	Calendar citing hagiographical texts from manuscripts in a Cistercian library, perhaps Fountains
+
+
+ADDITIONAL DOCUMENTS
+
+Buildwas 			X1 	(Z3a) Note on books perhaps given to Buildwas, c. 1160
+Croxden 			X2 	(Z5a) Purchase of a bible in nine volumes, 1269 x 1274
+Hoxne				X-	(B-) Booklist, 1395/6
+Hyde 				X- 	(B-) Note on book by William Worcestre
+Lynne				X-	(B-) Inventory of books, 1454
+Saffron Walden 		X- 	(B83a) Note on book by William Worcestre
+Warden 			X- 	(Z25a) Visitation record, 26 September 1492
+
+
+NEW FRIARS
+
+Aylesford-Carmelite 	F1 	Part of catalogue, 1381
+Boston-Austin 		F2 	Lincolnshire list, 1528
+Boston-Carmelite 		F3 	Lincolnshire list, 1528
+Boston-Dominican 		F4 	Lincolnshire list, 1528
+Boston-Franciscan 	F5 	Lincolnshire list, 1528
+Cambridge-Austin 		F6 	Leland, c. 1536-1440
+Cambridge-Dominican 	F7 	Leland, c. 1536-40
+Cambridge-Franciscan 	F8	Leland, c. 1536-40
+Clare-Austin 		F9 	Receipts for books borrowed (1299-1339)
+Exeter-Dominican 		F10 	Leland, c. 1536-40
+Exeter-Franciscans 	F11 	Deed of deposit of books, 1266
+Grimsby-Austin 		F12 	Lincolnshire list, 1528
+Grimsby-Franciscan 	F13 	Lincolnshire list, 1528
+Guildford-Dominican 	F14 	Leland, c. 1536-40
+Hulne-Carmelite 		F15 	Catlogue, 1366
+Hulne-Carmelite		F16 	Catalogue, 1433
+Ipswich-Franciscan 	F17 	List of donors of books, 14th cent.
+King's Lynn-Carmelite 	F18 	Books bequeathed by Thomas Lexham, 1382
+King's Lynn-Dominican 	F19 	Books bequeathed by Thomas Lexham, 1382
+Lincoln-Austin 		F20 	Lincolnshire list, 1528
+Lincoln-Carmelite 	F21 	Lincolnshire list, 1528
+Lincoln-Dominican 	F22 	Lincolnshire list, 1528
+Lincoln-Franciscan 	F23 	Lincolnshire list, 1528
+London-Austin 		F24 	Leland, c. 1536-40
+London-Carmelite 		F25 	Leland, c. 1536-40
+London-Carmelite		F26 	Anonymus Reginensis, early 16th cent.
+London-Dominican 		F27 	Bale's extracts from catalogue of 1339, 16th cent.
+London-Dominican		F28 	Leland, c. 1536-40
+London-Franciscan 	F29 	Memorandum on foundation of library, 1421
+London-Franciscan		F30 	Leland, c. 1536-40
+London-Franciscan		F31 	Anonymus Reginensis, 16th cent.
+Norwich-Carmelite 	F32 	Leland, c. 1536-40
+Norwich-Dominican 	F33 	Leland, c. 1536-40
+Norwich-Franciscan 	F34 	Leland, c. 1536-40
+Oxford-Austin 		F35 	Books noted by Thomas Gascoigne, c. 1430
+Oxford-Carmelite 		F36 	Leland, c. 1536-40
+Oxford-Dominican 		F37 	Books noted by Thomas Gascoigne, early 15th cent.
+Oxford-Dominican		F38 	Leland, c. 1536-40
+Oxford-Dominican		F39 	Anonymus Reginensis, early 16th cent.
+Oxford-Franciscan 	F40 	Leland, c. 1536-40
+Reading-Franciscan 	F41 	Leland, c. 1536-40
+Reading-Franciscan	F42 	Anonymus Reginensis, 16th cent.
+Richmond-Observant 	F43 	Extract from will of Thomas Collier, 1506
+Salisbury-Dominican 	F44 	Leland, c. 1536-40
+Southampton-Franciscan 	F45 	Anonymus Reginensis, 16th cent.
+Winchester-Dominican 	F46 	Anonymus Reginensis, 16th cent.
+Winchester-Franciscan 	F47 	Anonymus Reginensis, 16th cent.
+York-Austin 		F48 	Catalogue, 1372

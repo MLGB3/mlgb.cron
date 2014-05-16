@@ -1,0 +1,163 @@
+﻿Document codes from 'list.master' with no corresponding entry in Key.doc
+
+A very few of these look like typos. I can correct a few of them myself without needing further
+guidance, but in the case of others, I would need you to tell me what it should be.
+
+	{{JW interlineated}}
+
+B55{P} -- full stop after the {P} instead of before                        -- I can correct this
+	Thanks
+
+K6666  -- a valid format in theory, but a very large number                -- please advise
+	It should be K666
+
+U06    -- this is a zero not a letter O                                    -- I can correct this
+	Thanks
+
+U33    -- presumably should be either UC or UO                             -- please advise
+	UO please
+
+UC19*  -- full stop after the asterisk instead of before                   -- I can correct this
+	Thanks
+
+UC1434 -- once again, a rather large number (next-largest UC code = UC175) -- please advise
+	Should be UC144.1
+
+A few have just the alphabetic part of the code, with no number. I can let you know exactly where
+these appear in the file if you want.
+
+BA   	JW:   	BA.911b should be BA1.911b      
+BC	JW:	BC.1081c should be BC4.1081c            
+BM	JW:	BM.210c should be BM1.210c
+FA      JW:	FA.518g should be FA8.518g      
+SH	JW:	SH14 should be SH14.12            
+SS	JW:	SS.185 should be SS1.185            
+
+The remainder look like valid entries that just don't appear in Key.doc:
+
+BA11   JW:	should be BA1       
+BC101  JW:	= Inventory of books in library of Canterbury College, Oxford, 1443       
+BC103  JW:	= Inventory of books in library of Canterbury College, Oxford, 1501        
+BC104  JW:	= Inventory of books in library of Canterbury College, Oxford, 1501       
+BC106  JW:	= Inventory of books in library of Canterbury College, Oxford, 1521      
+BC107  JW:	= Inventory of books in library of Canterbury College, Oxford, 1524       
+
+FC4    JW:	Can you ignore this one? It is a non-standard abbreviation that will be replaced.       
+FC5    JW:	ditto       
+H112   JW:	I can't find this one in the masterfile.       
+
+K2     JW:	All the K-references mean the same thing, no matter what number follows the letter.
+		So the key for each reference is: 'Henry de Kirkestede, Catalogus, c. 1360'       
+
+R1 	JW:	Likewise all the R-references, They all stand for: 'Registrum Anglie, early 14th cent.'
+
+P7  	JW:	= Leland, c. 1536-40
+P8      JW:	= Lincolnshire list, 1528      
+P9      JW:	= Catalogue, late 12th cent.      
+P7 and P8 both relate to Tupholme, P9 relates to Welbeck. They are all Premonstratensian houses.
+
+SH166	JW:	Should be SH66
+    
+JW: The key for the UO numbers is as follows.
+
+University	UO1	Gift of books by Humfrey Duke of Gloucester, 25 November 1439
+		UO2	Gift of books by Humfrey Duke of Gloucester, 1441
+		UO3	Gift of books by Humfrey Duke of Gloucester, 25 February 1444
+		UO3A	List of books recorded by an Italian visitor to Oxford, early 16th cent.
+		UO4	Leland, 1535
+All Souls College	UO5	Gift of books by Henry VI, 10 June 1440
+		UO6	Inventory of the library, c. 1443
+		UO7	Inventory of the library, c. 1443
+		UO8	Inventory of the library, c. 1450
+		UO9	Donation by John Norfolk c. 1467
+		UO10	Donation by Richard Andrewe, 26 October 1471
+		UO11	Donation by William Goldwyn, William Denys and Richard Salter, 1482 × 1519
+		UO12	Books chained in the library, 1466 × 1494
+		UO13	Inventory of the library, c. 1495
+		UO14	Inventory of the library, c. 1500
+		UO15	Inventory of books in circulation, early 16th cent.
+		UO16	Inventory of the library, c. 1513
+		UO17	List of books given by Archbishop William Warham, c. 1532
+		UO18	List of books given by John More, 1526  1533
+		UO19	Inventory of the library, c. 1544–5
+		UO20	Inventory of books drawn up for the Marian commissioners, 1556
+Balliol College	UO21	List of books recorded by an Italian visitor to Oxford, early 16th cent.
+		UO22	Leland, c. 1535
+Brasenose College 	UO23	Inventory of books drawn up for the Marian commissioners, 1556
+Corpus Christi College	UO24	List of books belonging to John Claymond, early 16th cent.
+		UO25	Inventory of books formerly belonging to William Grocyn, in or soon after 1520
+		UO26	List of select books formerly belonging to William Grocyn, in or soon after 1520
+		UO27	List of Grocyn’s books in alphabetical order of authors, in or soon after
+		1520
+		UO28	List of Grocyn’s books, divided into manuscript and printed, in or soon after 1520
+		UO29	Select list of books formerly owned by Grocyn, intended for donation, in or soon after 1520
+		UO30	List of Grocyn’s books sold to John Clamond, ?1521
+		UO31	List of Grocyn’s Greek books, bought by John Claymond, in or soon
+		after 1520
+		UO32	List of Grocyn’s books in Greek, in or soon after 1520
+		UO33	Catalogue of the Library, 1589
+Exeter College	UO34	Gift of books from William Reed, bishop of Chichester, 22 October 1374
+		UO35	Indenture recording delivery of books from Bishop William Reed, 8 Aug. 1400
+		UO36	Gift of books by Henry Boner, 9 April 1427
+Lincoln College	UO37	Composition between the college and Thomas Gascoigne, 13 Dec. 1432
+		UO38	Inventory of books in the library, 1474
+		UO39	Electio list, 1476
+		UO40	Memorandum of receipt of books from Richard Swann, 7 Nov. 1487	
+		UO41	Composition between the college and Thomas Barker, 25 Feb. 1488
+		UO42	List of books recorded by an Italian visitor to Oxford, early 16th cent.
+		UO43	Electio list, 1543
+Magdalen College 	UO44	List of donated books, probably by John Neele, 22 Aug. 1488  21
+		Aug. 1489
+		UO45	List of books seen in the library by an Italian visitor, early 16th cent.
+Merton College	UO46	Catalogue of philosophical books, early 14th cent.
+		UO47	Catalogue of theological books, 1349–c. 1360
+		UO48	Electio list of philosophical books, 20 November 1372
+		UO49	Gift of books by William Reed, 22 October 1374
+		UO50	Electio list of philosophical books, 8 December 1375
+		UO51	Electio list of philosophical books, 1408–9
+		UO52	Indentures of distributions of books from the warden’s collection, c. 
+		1408–37
+		UO53	Memorandum of books deposited in the university chests, 1439 × 1452
+		UO54	Electio list of philosophical books, 13 January 1452
+		UO55	Books assigned to the warden’s study, 1483
+		UO56	List of books given by John Gygour, 14 July 1486
+		UO57	Electio list of theology books, 4 Nov. 1488
+		UO58	List of books redeemed from the Rede chest, 7 Dec. 1493
+		UO59	Books received from William Romsey and others, 2 Aug. 1494.
+		UO60	List of books bequeathed by John Marshall, bishop of Llandaff 1478—Jan.  Feb. 1496
+		UO61	List of books bequeathed by John Persons, 26 Nov. 1500
+		UO62	Books assigned to the warden’s study, 12 June 1507
+		UO63	List of theological books missing from the electio, 3 April 1508
+		UO64	Books assigned to the warden’s study, 28 Feb. 1509
+		UO65	Electio list of philosophical books, 16 Dec. 1513
+		UO66	Electio list of theological books, 8 Dec. 1519
+		UO67	Leland c. 1535
+		UO68	Inventory of books drawn up for the Marian commissioners, 1556
+New College	UO69	Books for the use of the scholars, 18 September 1377
+		UO70	Inventory of books in the library, c. 1386 and later 
+		UO71	Indenture of books by John Campeden, 27 August 1401
+		UO72	Indenture of books given by Nicholas Wykeham, 9 June 1407
+				UO73	Books donated by John Elmer, 21 December 1408 and 1416
+		UO74	Bequest of books by Robert Keton, after 24 August 1429
+		UO75	List of books in the scholars’ studies, 1489
+		UO75A	List of books donated by Archbishop William Warham, 23 May 1508.
+		UO76	List of books recorded by an Italian visitor to Oxford, early 16th cent.
+		UO77	Leland, c. 1536
+		UO78	Partial inventory of library books, c. 1556
+Oriel College	UO79	Inventory of the college library, 31 May 1375
+		UO80	List of books bequeathed by Stephen Kettelbergh, 22 June 1359
+		UO81	List of books bequeathed by Thomas Hawkins, 20 March 1478
+The Queen’s College	UO82	Books returned to the college, 13 May 1378
+		UO83	Indenture of receipt of electio books by Henry Scayfe, 1445
+University College	UO84	Indenture recording gift of books by Walter Skirlaw, 21 August 1404
+		UO85	Indenture recording gift of books by William Asplyon, 11 Feb. 1474
+
+     
+UO98 	JW:	Can you ignore this one for now? It will change before too long.         
+UO131   JW:	ditto.      
+UP33	JW:	Should be UO33          
+
+
+That's it! Huge thanks for spotting these, Sue.
+All best,
+James.
