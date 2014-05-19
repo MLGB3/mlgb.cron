@@ -38,5 +38,5 @@ echo 'Taking archive copy of images, then resizing for web display...'
 /home/mlgb/sites/mlgb/parts/jobs/process_photos.sh >> /home/mlgb/sites/mlgb/parts/jobs/process_photos.log 2>&1
 
 echo 'Reindexing Solr...'
-curl http://localhost:1234/solr/books/dataimport?command=full-import > /home/mlgb/sites/mlgb/parts/jobs/solrimport.log 2>&1
-curl http://localhost:1234/solr/catalogues/dataimport?command=full-import >> /home/mlgb/sites/mlgb/parts/jobs/solrimport.log 2>&1
+curl http://127.0.1.1:1234/solr/books/dataimport?command=full-import > /home/mlgb/sites/mlgb/parts/jobs/solrimport.log 2>&1
+curl http://127.0.1.1:1234/solr/catalogues/dataimport?command=full-import >> /home/mlgb/sites/mlgb/parts/jobs/solrimport.log 2>&1
