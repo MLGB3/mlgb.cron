@@ -11,7 +11,7 @@ corefile=mlgb-database-dump.sql
 datetime=$(date +"%Y-%m-%d-%H%M")
 
 dumpfilename="$datetime-$corefile"
-dumpdir=/home/mlgb/sites/mlgb/parts/BACKUPS
+dumpdir=/home/mlgb/sites/mlgb/var/sql_dumps
 
 echo "Dumping MLGB database to $dumpdir/$dumpfilename"
 mysqldump -umlgbAdmin -p$pw --default-character-set=utf8 mlgb > $dumpdir/$dumpfilename 2>&1
